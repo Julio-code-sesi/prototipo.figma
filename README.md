@@ -11,7 +11,7 @@
 
 
 
-![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=julio-coe-sesi&show_icons=true&theme=dracula)
+![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=julio-code-sesi&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-code-sesi&layout=compact)
 
